@@ -22,7 +22,7 @@
 - Flutter
 - Game Development
 
-## 📫 ContactAdd commentMore actions
+## 📫 Contact
 <p>
   <a href="https://x.com/nnnnnnn0090">🐦 X (Twitter)</a> | 
   <a href="https://nnnnnnn0090.jp">🌐 nnnnnnn0090.jp</a> | 
