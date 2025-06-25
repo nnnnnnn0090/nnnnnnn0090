@@ -22,7 +22,9 @@
 - Flutter
 - Game Development
 
-## 📫 Contact
-- [X (Twitter)](https://x.com/nnnnnnn0090)
-- [nnnnnnn0090.jp](https://nnnnnnn0090.jp)
-- [Zenn](https://zenn.dev/nnnnnnn0090)
+## 📫 ContactAdd commentMore actions
+<p>
+  <a href="https://x.com/nnnnnnn0090">🐦 X (Twitter)</a> | 
+  <a href="https://nnnnnnn0090.jp">🌐 nnnnnnn0090.jp</a> | 
+  <a href="https://zenn.dev/nnnnnnn0090">📘 Zenn</a>
+</p>
