@@ -11,12 +11,10 @@
 </p>
 
 ## 📈 GitHub Stats
-
-![mini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnnnnnn0090&show_icons=true&theme=tokyonight)
-
-## 🏆 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnnnnnn0090&layout=compact&theme=tokyonight)
+<p align="left"> 
+  <img alt="TopLangs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnnnnnn0090&theme=transparent&layout=compact"/>
+  <img alt="githubStats" height="250px" src="https://github-readme-stats.vercel.app/api?username=nnnnnnn0090&theme=transparent&show_icons=ture"/>
+</p>
 
 ## 🌱 Currently Learning
 - Security
