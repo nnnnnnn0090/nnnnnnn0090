@@ -25,6 +25,6 @@
 ## 📫 Contact
 <p>
   <a href="https://x.com/nnnnnnn0090">🐦 X (Twitter)</a> | 
-  <a href="https://nnnnnnn0090.jp">🌐 nnnnnnn0090.jp</a> | 
+  <a href="https://nnnnnnn0090.com">🌐 nnnnnnn0090.com</a> | 
   <a href="https://zenn.dev/nnnnnnn0090">📘 Zenn</a>
 </p>
