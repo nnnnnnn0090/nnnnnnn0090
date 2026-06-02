@@ -7,7 +7,7 @@
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=apple,swift,java,kotlin,cpp,cs,python,php,ruby,go,lua,rust,dart,typescript,js,html,css,vue,react,nextjs,flutter,nodejs,django,misskey,unity,dotnet,sqlite,mongodb,tailwind,jquery,androidstudio,git,github,docker,linux,vscode,anaconda" />
+  <img src="https://skillicons.dev/icons?i=apple,swift,java,kotlin,cpp,cs,python,php,ruby,go,lua,rust,dart,typescript,js,html,css,vue,react,nextjs,flutter,nodejs,django,misskey,unity,dotnet,sqlite,mongodb,tailwind,jquery,androidstudio,git,github,docker,linux,vscode,anaconda,unity" />
 </p>
 
 ## 📈 GitHub Stats
